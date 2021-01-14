@@ -19,6 +19,9 @@
     }
 }
 @media(max-width:768px){
+    .menu-logo{
+        width: 250px;
+    }
     .header-contents{
        margin-top: -100px;
     }
