@@ -1,0 +1,132 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.header-part{
+    height: 600px;
+    background-color: #fffff4;
+}
+.main-menu{
+    /* padding: 0px 40px; */
+}
+.menu-logo{
+    width: 400px;
+}
+.menu-items{
+    justify-content: flex-end;
+    padding: 10px 0px;
+}
+.menu-items .menu-item{
+    padding-left: 30px;
+    
+}
+.menu-items .nav-item .nav-link{
+    color: black;
+}
+.menu-items .nav-item .nav-link:hover{
+    color: #76c27e;
+}
+.header-contents{
+    padding: 50px 0px;
+}
+.header-con{
+    padding: 100px 200px 0px 0px;
+}
+.header-con p{
+    padding: 20px 0px;
+}
+.home-title{
+    font-size: 50px;
+    font-weight: 700;
+}
+.header-highlight{
+    color: #76c27e;
+}
+.header-contents img{
+    width: 400px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #2a1e59;
+    color: white;
+}
+.btn i{
+    margin-right: 10px;
+}
+.btn:hover{
+    background-color: #76c27e;
+    color: red;
+}
+.exchange-shoping{
+    padding: 50px 0px;
+    background-color: #fff;
+}
+.shoping-info{
+    height: 150px;
+    width: 450px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+.shop-icon img{
+    width: 100px;  
+}
+.shop-con{
+    padding-left: 30px;
+}
+.shoping-img{
+    padding-top: 50px;
+}
+.backpack-img{
+    height: 300px;
+}
+.backpack-footer{
+    display: flex;
+    padding: 0px 20px;
+    align-items: center;
+    border: 0;
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+
+.backpack-btn{
+    margin-left: 130px;
+}
+.casual-card{
+   
+    border: 0;
+    border-radius: 10px;
+}
+
+.casual-card-img{
+    margin: 20px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+section{
+    padding: 30px 0px;
+}
+.section-title{
+    padding: 20px 0px;
+}
+.contact-part{
+    background-color: #fff;
+}
+.contact-info textarea{
+    height: 150px;
+    width: 400px;
+    resize: none;
+    border: none;
+}
+.contact-info input{
+    margin: 10px 0px;
+    width: 400px;
+    border: none;
+    height: 40px;
+}
+footer{
+    padding: 20px;
+}
+
+
+

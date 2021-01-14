@@ -1,0 +1,99 @@
+@media(max-width:1200px){
+    .header-part{
+        padding: 0px 30px;
+    }
+    
+}
+@media(max-width:992px){
+    .header-part{
+        padding: 0px 30px;
+    }
+    .backpack-btn{
+        margin-left: 75px;
+    }
+    .contact-map{
+        width: 450px;
+    }
+    .contact-map{
+        margin-top: 10px;
+    }
+}
+@media(max-width:768px){
+    .header-contents{
+       margin-top: -100px;
+    }
+    .home-title{
+        font-size: 70px;
+    }
+    .header-respon img{
+       margin-left: 125px;
+    }
+    .shoping-info{
+        margin-left: 125px;
+        
+    }
+    .shoping-img{
+        text-align: center;
+    }
+    .shoping-img img{
+        width: 400px;
+        
+    }
+    .exchange-part{
+        margin-top: 250px;
+        padding-top: 150px;
+    }
+    
+    .casual-card{
+        width: 400px;
+        margin: 0 auto;
+    }
+    .casual-card-img{
+        padding: 10px;
+    }
+    .casual-card-img img{
+        height: 300px;
+    }
+    .section-title{
+        text-align: center;
+    }
+    .backpack-btn{
+        padding-left: 100px;
+    }
+    .contact-area{
+        text-align: center;
+    }
+    .contact-map{
+        width: 400px;
+        margin-top: 20px;
+    }
+}
+@media(max-width: 576px){
+    .menu-logo{
+        width: 300px;
+    }
+    .section-title{
+        font-size: 40px;
+    }
+    .main-menu{
+        position: relative;
+    }
+    .mobile-respon-btn{
+        position: absolute;
+        top: 20px;
+        right: 0;
+    }
+    .home-img img{
+        margin-left: 20px;
+    }
+    .exchange-part{
+        padding-top: 150px;
+    }
+    .shoping-info{
+        display: block!important;
+        height: 250px;
+        text-align: center;
+        margin: 20px auto;
+        padding: 20px 90px;
+    }
+}
